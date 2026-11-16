@@ -1,0 +1,21 @@
+
+
+iniciar		perfil		fpv_01
+
+modo		acro
+
+configurar		altura_max		120
+
+configurar		velocidad_max		80
+
+configurar		bateria_min		20
+
+configurar		tasa_giro		200
+
+configurar		potencia_motor		75
+
+seguridad		failsafe		return
+
+validar		perfil
+
+finalizar		perfil
